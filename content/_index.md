@@ -10,9 +10,10 @@ design:
 
 sections:
   # 1. 프로필 섹션
-  - block: resume-biography-3
+  - block: about.biography  # <-- 이걸로 바꿔보세요
+    id: about
     content:
-      username: admin         # <--- ★여기를 admin으로 해야 아까 넣은 사진이 뜹니다!
+      username: admin        # <--- ★여기를 admin으로 해야 아까 넣은 사진이 뜹니다!
       text: ''
       button:
         text: Download CV
