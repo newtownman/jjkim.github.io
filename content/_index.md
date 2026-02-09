@@ -12,7 +12,7 @@ sections:
   # 1. 프로필 섹션
   - block: resume-biography-3
     content:
-      username: admin          # <--- ★여기를 admin으로 해야 아까 넣은 사진이 뜹니다!
+      username: admin         # <--- ★여기를 admin으로 해야 아까 넣은 사진이 뜹니다!
       text: ''
       button:
         text: Download CV
