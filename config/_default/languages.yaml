@@ -3,8 +3,11 @@
 #   Documentation: https://docs.hugoblox.com/reference/language/
 
 # Default language
+# Default language
 en:
   languageCode: en-us
+  title: Jonny Jungyun Kim          # <--- 이 줄을 직접 추가하세요!
+  # Uncomment for multi-lingual sites... (이 아래는 그대로 두기)
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
